@@ -12,6 +12,7 @@ namespace ArquivoPrestador
     public class Utilitarios
     {
         public List<Arquivo> listaDeArquivos = new List<Arquivo>();
+        //URL que fornece o arquivo
         private string _url = "https://cpom.prefeitura.sp.gov.br/prestador/SituacaoCadastral/LayoutTransmissaoArquivo?arquivo=TXT";
         private string nomeDoArquivo = MontarNomeArquivo();
         public void Download()
@@ -61,7 +62,7 @@ namespace ArquivoPrestador
             LimparRegistros();
             var conn = new SqlConnection(DbHelper.connectionString);
             conn.Open();
-            var count = 1;
+            //var count = 1;
             //var command = new SqlCommand("GRAVAR_ARQUIVO", conn);
             var command = new SqlCommand("importacao_cpom_salvar", conn);
             command.CommandType = CommandType.StoredProcedure;
@@ -71,7 +72,7 @@ namespace ArquivoPrestador
                 command.Parameters.AddWithValue("@P_CNPJ", arquivo.Cnpj);
                 command.Parameters.AddWithValue("@P_CODIGOATIVIDADE", arquivo.CodigoDaAtividade);
                 command.ExecuteNonQuery();
-                Console.WriteLine("gravei o registro " + count);
+                //Console.WriteLine("gravei o registro " + count);
                 count++;
             }
             conn.Close();

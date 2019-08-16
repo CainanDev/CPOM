@@ -10,8 +10,8 @@ namespace ArquivoDAL
 {
     public static class DbHelper
     {
-        //private static string _connectionString = @"Data Source=PROG02SSD\ESTUDOS;Initial Catalog=Banco_Teste_Arquivo_Prestador;Integrated Security=True";
-        private static string _connectionString = @"Data Source=200.170.88.138;Initial Catalog=assecont2;Persist Security Info=True;User ID=assecont5272;Password=*h6prMvr;Connect Timeout=30";
+        
+        private static string _connectionString = "Aqui vai a string de conexão com o seu banco";
 
         public static string connectionString
         {

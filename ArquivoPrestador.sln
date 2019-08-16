@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquivoPrestador", "ArquivoPrestador\ArquivoPrestador.csproj", "{196B002B-773A-453C-B48F-E172732658F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquivoDAL", "ArquivoDAL\ArquivoDAL.csproj", "{3316E259-7D58-45E6-BAD0-16A60A63DCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196B002B-773A-453C-B48F-E172732658F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196B002B-773A-453C-B48F-E172732658F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196B002B-773A-453C-B48F-E172732658F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196B002B-773A-453C-B48F-E172732658F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3316E259-7D58-45E6-BAD0-16A60A63DCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3316E259-7D58-45E6-BAD0-16A60A63DCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3316E259-7D58-45E6-BAD0-16A60A63DCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3316E259-7D58-45E6-BAD0-16A60A63DCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CA6A2B-A265-4D37-AB25-CC75FBF3363F}
+	EndGlobalSection
+EndGlobal

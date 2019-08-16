@@ -1,0 +1,10 @@
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\bin\Debug\ArquivoPrestador.exe.config
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\bin\Debug\ArquivoPrestador.exe
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\bin\Debug\ArquivoPrestador.pdb
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\obj\Debug\ArquivoPrestador.csprojAssemblyReference.cache
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\obj\Debug\ArquivoPrestador.csproj.CoreCompileInputs.cache
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\obj\Debug\ArquivoPrestador.exe
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\obj\Debug\ArquivoPrestador.pdb
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\bin\Debug\ArquivoDAL.dll
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\bin\Debug\ArquivoDAL.pdb
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoPrestador\obj\Debug\ArquivoPrestador.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoDAL\bin\Debug\ArquivoDAL.dll
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoDAL\bin\Debug\ArquivoDAL.pdb
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoDAL\obj\Debug\ArquivoDAL.csprojAssemblyReference.cache
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoDAL\obj\Debug\ArquivoDAL.csproj.CoreCompileInputs.cache
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoDAL\obj\Debug\ArquivoDAL.dll
+C:\Users\eliasl\source\repos\ArquivoPrestador\ArquivoDAL\obj\Debug\ArquivoDAL.pdb

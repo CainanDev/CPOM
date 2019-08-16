@@ -14,9 +14,9 @@ namespace ArquivoPrestador
         {
             Utilitarios utilitarios = new Utilitarios();
             utilitarios.Download();
-            List<Arquivo> teste = utilitarios.LerArquivo();
-            utilitarios.GravarArquivoNoBanco(teste);
-            Console.WriteLine("TERMINOOOOOOOOOOOOOOOOOOOOOU");
+            List<Arquivo> listaDeArquivos = utilitarios.LerArquivo();
+            utilitarios.GravarArquivoNoBanco(listaDeArquivos);
+            Console.WriteLine("Procedimento finalizado.");
             //Console.ReadKey();
             
             

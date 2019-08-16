@@ -33,10 +33,7 @@ namespace ArquivoPrestador
 
         public List<Arquivo> LerArquivo()
         {
-            //implementar logica de leitura do arquivo usando threads
             StreamReader leitor = new StreamReader(nomeDoArquivo); //caminho relativo na pasta bin do projeto
-            //File.Exists(nomeDoArquivo);
-            
             while (!leitor.EndOfStream)
             {
                 Arquivo arquivo = new Arquivo();
